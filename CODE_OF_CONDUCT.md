@@ -1,4 +1,5 @@
 # Contributor Covenant Code of Conduct
+bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## Our Pledge
 
